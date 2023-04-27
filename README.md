@@ -20,9 +20,11 @@ Jupyter Notebook
 
 ## Usage
 Install the required dependencies:
-'''
+
+```
 pip install torch torchvision jupyter
-'''
+```
+
 Download the ANTS & BEES dataset and extract it to a folder named data.
 
 Open ants_and_bees_classifier.ipynb in Jupyter Notebook.
