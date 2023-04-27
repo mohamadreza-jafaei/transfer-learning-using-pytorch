@@ -20,7 +20,9 @@ Jupyter Notebook
 
 ## Usage
 Install the required dependencies:
+'''
 pip install torch torchvision jupyter
+'''
 Download the ANTS & BEES dataset and extract it to a folder named data.
 
 Open ants_and_bees_classifier.ipynb in Jupyter Notebook.
@@ -29,9 +31,11 @@ Run the cells one by one to see how the model is defined, trained and evaluated.
 
 Modify the code as needed to experiment with different hyperparameters, network architectures, etc.
 
-Results
+## Results
 The model achieves an accuracy of around 95% on the validation set after training for 25 epochs. The loss and accuracy curves are plotted for visualization.
 
+you can see 8 output below:
+![Output](./output.png)
 
 Acknowledgments
 Dataset: ANTS & BEES by Ajay Rana
