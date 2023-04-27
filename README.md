@@ -37,6 +37,8 @@ The model achieves an accuracy of around 95% on the validation set after trainin
 you can see 8 output below:
 ![Output](./output.png)
 
-Acknowledgments
-Dataset: ANTS & BEES by Ajay Rana
+## Acknowledgments
+
+Dataset: [ANTS & BEES]([https://www.kaggle.com/ajayrana/hymenoptera-data](https://www.kaggle.com/ajayrana/hymenoptera-data)) by Ajay Rana
 Pre-trained model: ResNet18 in PyTorch torchvision.models module
+
