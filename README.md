@@ -39,6 +39,6 @@ you can see 8 output below:
 
 ## Acknowledgments
 
-Dataset: [ANTS & BEES]([https://www.kaggle.com/ajayrana/hymenoptera-data](https://www.kaggle.com/ajayrana/hymenoptera-data)) by Ajay Rana
+Dataset: [ANTS & BEES](https://www.kaggle.com/ajayrana/hymenoptera-data) by Ajay Rana
 Pre-trained model: ResNet18 in PyTorch torchvision.models module
 
