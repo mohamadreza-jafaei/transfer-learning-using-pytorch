@@ -32,6 +32,7 @@ Run the cells one by one to see how the model is defined, trained and evaluated.
 Modify the code as needed to experiment with different hyperparameters, network architectures, etc.
 
 ## Results
+
 The model achieves an accuracy of around 95% on the validation set after training for 25 epochs. The loss and accuracy curves are plotted for visualization.
 
 you can see 8 output below:
@@ -40,5 +41,6 @@ you can see 8 output below:
 ## Acknowledgments
 
 Dataset: [ANTS & BEES](https://www.kaggle.com/ajayrana/hymenoptera-data) by Ajay Rana
+
 Pre-trained model: ResNet18 in PyTorch torchvision.models module
 
