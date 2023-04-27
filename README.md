@@ -38,6 +38,7 @@ Modify the code as needed to experiment with different hyperparameters, network 
 The model achieves an accuracy of around 95% on the validation set after training for 25 epochs. The loss and accuracy curves are plotted for visualization.
 
 you can see 8 output below:
+
 ![Output](./output.png)
 
 ## Acknowledgments
